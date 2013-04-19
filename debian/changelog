@@ -1,4 +1,4 @@
-snorkel (0.0.5-1) unstable; urgency=low
+snorkel (0.0.6-1) unstable; urgency=low
 
   * Initial release
 
@@ -9,5 +9,7 @@ snorkel (0.0.5-1) unstable; urgency=low
   * Upgrading to snorkel 0.0.4 (/etc configuration)
 
   * Upgrading to snorkel 0.0.5 (deletable datasets, CSV uploads)
+
+  * Upgrading to snorkel 0.0.6 (separate services)
 
  -- Matt Erkkila <matt.erkkila@rd.io>  Wed, 10 Apr 2013 09:10:16 -0700
